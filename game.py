@@ -1,5 +1,5 @@
 #Game made by Derias => https://github.com/Derias20
-#Game is bugging after three rounds, Im gonna make a fix it later.
+#Game is bugging after three rounds, Im going to make a fixing update later.
 import random
 while True:
     possible_choices = ["rock" , "paper" , "scissors"]
